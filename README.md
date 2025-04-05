@@ -1,6 +1,6 @@
 <!-- 页面顶部动图 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=1351055318&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CodeMaster&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -12,33 +12,50 @@
   <h2>👨‍💻 终端简介 | Terminal Intro</h2>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div style="background-color: #1a1b26; border-radius: 10px; padding: 20px; font-family: 'JetBrains Mono', monospace; color: #a9b1d6;">
+          
 ```bash
+# Terminal: Tokyo Night Theme
+# Font: JetBrains Mono
+
 $ whoami
-> full-stack-developer
+> <span style="color: #7aa2f7;">full-stack-developer</span>
 
 $ cat /etc/profile
-> 热爱编程，崇尚开源精神，追求简洁高效的代码
+> <span style="color: #9ece6a;">热爱编程，崇尚开源精神，追求简洁高效的代码</span>
 
 $ uptime
-> 编程5年，持续学习中...
+> <span style="color: #bb9af7;">编程5年，持续学习中...</span>
 
 $ ls -la ~/skills
-> drwxr-xr-x  前端: React NextJS Vue TypeScript
-> drwxr-xr-x  后端: Node.js Python Django FastAPI Go
-> drwxr-xr-x  数据库: MongoDB MySQL PostgreSQL Redis
-> drwxr-xr-x  DevOps: Docker Kubernetes CI/CD AWS
+> <span style="color: #7aa2f7;">drwxr-xr-x</span>  前端: <span style="color: #ff9e64;">React</span> <span style="color: #7dcfff;">NextJS</span> <span style="color: #9ece6a;">Vue</span> <span style="color: #bb9af7;">TypeScript</span>
+> <span style="color: #7aa2f7;">drwxr-xr-x</span>  后端: <span style="color: #73daca;">Node.js</span> <span style="color: #7dcfff;">Python</span> <span style="color: #f7768e;">Django</span> <span style="color: #ff9e64;">FastAPI</span> <span style="color: #9ece6a;">Go</span>
+> <span style="color: #7aa2f7;">drwxr-xr-x</span>  数据库: <span style="color: #73daca;">MongoDB</span> <span style="color: #bb9af7;">MySQL</span> <span style="color: #7dcfff;">PostgreSQL</span> <span style="color: #f7768e;">Redis</span>
+> <span style="color: #7aa2f7;">drwxr-xr-x</span>  DevOps: <span style="color: #ff9e64;">Docker</span> <span style="color: #9ece6a;">Kubernetes</span> <span style="color: #bb9af7;">CI/CD</span> <span style="color: #73daca;">AWS</span>
 
 $ ps aux | grep current_focus
-> AI/ML应用开发 云原生架构 分布式系统
+> <span style="color: #f7768e;">AI/ML应用开发</span> <span style="color: #7dcfff;">云原生架构</span> <span style="color: #9ece6a;">分布式系统</span>
 
 $ echo $PATH
-> /usr/local/问题解决/:/usr/bin/创新思维/:/home/用户/持续学习/
+> <span style="color: #ff9e64;">/usr/local/问题解决/</span>:<span style="color: #9ece6a;">/usr/bin/创新思维/</span>:<span style="color: #7dcfff;">/home/用户/持续学习/</span>
 
 $ curl -I https://my-portfolio.com
-> HTTP/2 200 
-> content-type: application/developer
-> x-powered-by: coffee-and-passion
+> <span style="color: #7dcfff;">HTTP/2 200</span>
+> <span style="color: #9ece6a;">content-type: application/developer</span>
+> <span style="color: #f7768e;">x-powered-by: coffee-and-passion</span>
+
+$ exit
+> <span style="color: #bb9af7;">感谢访问！请继续向下浏览更多内容...</span>
 ```
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- 技术栈展示 -->
 <div align="center">
