@@ -34,14 +34,11 @@
   <table>
     <tr>
       <td>
-        <div align="left" style="background-color: #1a1b26; border-radius: 10px; padding: 20px;">
+        <div align="left">
           
 ```bash
-# 🌙 Terminal: Tokyo Night Theme
-# 🖥️ Font: JetBrains Mono
-
 $ whoami
-> 👨‍💻 full-stack-developer
+> 👨 full-stack-developer
 
 $ cat /etc/profile
 > 🚀 热爱编程，崇尚开源精神，追求简洁高效的代码
@@ -50,10 +47,10 @@ $ uptime
 > ⏳ 编程5年，持续学习中...
 
 $ ls -la ~/skills
-> 📂 drwxr-xr-x  前端: **React** **NextJS** **Vue** **TypeScript**
-> 📂 drwxr-xr-x  后端: **Node.js** **Python** **Django** **FastAPI** **Go**
-> 📂 drwxr-xr-x  数据库: **MongoDB** **MySQL** **PostgreSQL** **Redis**
-> 📂 drwxr-xr-x  DevOps: **Docker** **Kubernetes** **CI/CD** **AWS**
+> 📁 drwxr-xr-x  前端: **React** **NextJS** **Vue** **TypeScript**
+> 📁 drwxr-xr-x  后端: **Node.js** **Python** **Django** **FastAPI** **Go**
+> 📁 drwxr-xr-x  数据库: **MongoDB** **MySQL** **PostgreSQL** **Redis**
+> 📁 drwxr-xr-x  DevOps: **Docker** **Kubernetes** **CI/CD** **AWS**
 
 $ ps aux | grep current_focus
 > 🔍 **AI/ML应用开发** **云原生架构** **分布式系统**
