@@ -47,19 +47,19 @@ $ uptime
 > ⏳ 编程5年，持续学习中...
 
 $ ls -la ~/skills
-> 📁 drwxr-xr-x  前端: **React** **NextJS** **Vue** **TypeScript**
-> 📁 drwxr-xr-x  后端: **Node.js** **Python** **Django** **FastAPI** **Go**
-> 📁 drwxr-xr-x  数据库: **MongoDB** **MySQL** **PostgreSQL** **Redis**
-> 📁 drwxr-xr-x  DevOps: **Docker** **Kubernetes** **CI/CD** **AWS**
+> 📁 drwxr-xr-x  前端: React NextJS Vue TypeScript
+> 📁 drwxr-xr-x  后端: Node.js Python Django FastAPI Go
+> 📁 drwxr-xr-x  数据库: MongoDB MySQL PostgreSQL Redis
+> 📁 drwxr-xr-x  DevOps: Docker Kubernetes CI/CD AWS
 
 $ ps aux | grep current_focus
-> 🔍 **AI/ML应用开发** **云原生架构** **分布式系统**
+> 🔍 AI/ML应用开发 云原生架构 分布式系统
 
 $ echo $PATH
 > 🛠️ /usr/local/问题解决/:/usr/bin/创新思维/:/home/用户/持续学习/
 
 $ curl -I https://my-portfolio.com
-> 🌐 HTTP/2 **200**
+> 🌐 HTTP/2 200
 > 📄 content-type: application/developer
 > ☕ x-powered-by: coffee-and-passion
 
