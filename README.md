@@ -30,12 +30,6 @@
   <h2>👨‍💻 终端简介 | Terminal Intro</h2>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div align="left">
-          
 ```bash
 $ whoami
 > 👨 full-stack-developer
@@ -66,11 +60,6 @@ $ curl -I https://my-portfolio.com
 $ exit
 > 👋 感谢访问！请继续向下浏览更多内容...
 ```
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- 分割线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
