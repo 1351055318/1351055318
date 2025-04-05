@@ -7,6 +7,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+World!;Welcome+to+my+CodeSpace;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%BB%A3%E7%A0%81%E7%A9%BA%E9%97%B4" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
+
+<br>
+
+<!-- 分割线 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- 终端风格介绍 -->
 <div align="center">
   <h2>👨‍💻 终端简介 | Terminal Intro</h2>
@@ -57,62 +75,37 @@ $ exit
   </table>
 </div>
 
-<!-- 技术栈展示 -->
+<!-- 分割线 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub奖杯 -->
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  <img src="https://github-profile-trophy.vercel.app/?username=1351055318&theme=nord&column=7&no-frame=true" />
 </div>
 
 <br>
 
-<!-- 状态展示区 - 三栏布局 -->
+<!-- 状态展示区和语言统计 - 三栏布局 -->
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=1351055318&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=1351055318&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<!-- 语言统计 & 贡献图 -->
-<div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1351055318&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1351055318&theme=tokyonight&utcOffset=8" />
 </div>
 
 <br>
 
-<!-- 贡献图表 -->
+<!-- 贡献展示 - 3D效果 -->
 <div align="center">
-  <h3>🐍 我的贡献被贪吃蛇吃掉了</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1351055318/1351055318/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1351055318/1351055318/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/1351055318/1351055318/output/github-contribution-grid-snake.svg" />
-  </picture>
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1351055318&theme=tokyonight" />
+  <img src="https://github.com/1351055318/1351055318/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="800px" alt="3D贡献图" />
 </div>
 
 <br>
 
-<!-- 技能进度条 -->
+<!-- 分割线 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- 技能图标展示 -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,typescript,react,nodejs,go,docker,git,vscode,linux&theme=dark" />
-</div>
-
-<br>
-
-<!-- 活动图表 -->
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=1351055318&theme=tokyo-night&hide_border=true" />
 </div>
 
 <br>
@@ -124,21 +117,6 @@ $ exit
   </a>
   <a href="https://github.com/1351055318/another-project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1351055318&repo=another-project&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br>
-
-<!-- 联系方式 -->
-<div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
