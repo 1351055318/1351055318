@@ -91,6 +91,13 @@ $ exit
 
 <!-- 贡献图表 -->
 <div align="center">
+  <h3>🐍 我的贡献被贪吃蛇吃掉了</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1351055318/1351055318/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1351055318/1351055318/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/1351055318/1351055318/output/github-contribution-grid-snake.svg" />
+  </picture>
+  <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1351055318&theme=tokyonight" />
 </div>
 
