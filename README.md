@@ -52,11 +52,6 @@ $ ps aux | grep current_focus
 $ echo $PATH
 > 🛠️ /usr/local/问题解决/:/usr/bin/创新思维/:/home/用户/持续学习/
 
-$ curl -I https://my-portfolio.com
-> 🌐 HTTP/2 200
-> 📄 content-type: application/developer
-> ☕ x-powered-by: coffee-and-passion
-
 $ exit
 > 👋 感谢访问！请继续向下浏览更多内容...
 ```
