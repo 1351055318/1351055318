@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="1351055318 — Linux 运维 · 全栈工具开发" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/hero.svg" width="100%" alt="1351055318" />
 </div>
 
 <div align="center">
-  <img src="./assets/dashboard.svg" width="100%" alt="GitHub Dashboard" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/dashboard.svg" width="100%" alt="GitHub Dashboard" />
 </div>
 
 <div align="center">
-  <img src="./assets/sec-01.svg" width="100%" alt="01 我在做什么" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/sec-01.svg" width="100%" alt="01" />
 </div>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <b>⚙️ 基础设施自动化</b><br />
@@ -34,42 +34,42 @@
 </table>
 
 <div align="center">
-  <img src="./assets/sec-02.svg" width="100%" alt="02 精选项目" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/sec-02.svg" width="100%" alt="02" />
 </div>
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
       <b><a href="https://github.com/1351055318/Server-Configuration">Server-Configuration</a></b><br />
-      <code>Shell</code><br />
-      <sub>服务器初始化与配置脚本集合</sub>
+      <sub>服务器初始化与配置脚本集合</sub><br /><br />
+      <kbd>Shell</kbd>
     </td>
     <td width="33%" valign="top">
       <b><a href="https://github.com/1351055318/disk-pxe">disk-pxe</a></b><br />
-      <code>Shell</code><br />
-      <sub>PXE 网络批量装机方案</sub>
+      <sub>PXE 网络批量装机方案</sub><br /><br />
+      <kbd>Shell</kbd>
     </td>
     <td width="33%" valign="top">
       <b><a href="https://github.com/1351055318/test-ceph">test-ceph</a></b><br />
-      <code>Shell</code><br />
-      <sub>Ceph 分布式存储实验环境</sub>
+      <sub>Ceph 分布式存储实验环境</sub><br /><br />
+      <kbd>Shell</kbd>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <b><a href="https://github.com/1351055318/shuzihuadaping-test1">shuzihuadaping-test1</a></b><br />
-      <code>TypeScript</code><br />
-      <sub>数字化大屏可视化</sub>
+      <sub>数字化大屏可视化</sub><br /><br />
+      <kbd>TypeScript</kbd>
     </td>
     <td width="33%" valign="top">
       <b><a href="https://github.com/1351055318/joke-sender">joke-sender</a></b><br />
-      <code>Python</code><br />
-      <sub>冷笑话 / 土味情话自动推送系统</sub>
+      <sub>冷笑话 / 土味情话自动推送系统</sub><br /><br />
+      <kbd>Python</kbd>
     </td>
     <td width="33%" valign="top">
       <b><a href="https://github.com/1351055318/HUILV">HUILV</a></b><br />
-      <code>Python</code><br />
-      <sub>汇率查询工具 · MIT</sub>
+      <sub>汇率查询工具 · MIT</sub><br /><br />
+      <kbd>Python</kbd>
     </td>
   </tr>
 </table>
@@ -79,32 +79,15 @@
 </div>
 
 <div align="center">
-  <img src="./assets/sec-03.svg" width="100%" alt="03 技术栈" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/sec-03.svg" width="100%" alt="03" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,javascript,typescript,css,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/stack.svg" width="100%" alt="Tech Stack" />
 </div>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>系统 &amp; 运维</b><br />
-      <sub>Linux · Bash · Shell · Nginx · Ceph</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>语言</b><br />
-      <sub>Python · JavaScript · TypeScript · CSS</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>工具</b><br />
-      <sub>Git · GitHub · VS Code · Docker</sub>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <img src="./assets/sec-04.svg" width="100%" alt="04 活跃度" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/sec-04.svg" width="100%" alt="04" />
 </div>
 
 <div align="center">
@@ -112,5 +95,5 @@
 </div>
 
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="footer" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/footer.svg" width="100%" alt="" />
 </div>

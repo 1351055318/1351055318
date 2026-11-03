@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="200" viewBox="0 0 1260 200" fill="none" role="img" aria-label="Tech Stack">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="1260" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a0f1d"/>
+      <stop offset="1" stop-color="#0c1018"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141b2d"/>
+      <stop offset="1" stop-color="#0f1523"/>
+    </linearGradient>
+    <clipPath id="tcard"><rect width="1260" height="200" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#tcard)">
+    <rect width="1260" height="200" fill="url(#tbg)"/>
+    <rect x="0.75" y="0.75" width="1258.5" height="198.5" rx="16" stroke="#1d2740" stroke-width="1.5" fill="none"/>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#c8d1ea">
+
+      <g opacity="0">
+        <rect x="56" y="30" width="260" height="36" rx="10" fill="url(#pill)" stroke="#1f2a44" stroke-width="1.2"/>
+        <circle cx="76" cy="48" r="3.4" fill="#fcc624"/>
+        <text x="90" y="53">Linux</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.10s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="336" y="30" width="260" height="36" rx="10" fill="url(#pill)" stroke="#1f2a44" stroke-width="1.2"/>
+        <circle cx="356" cy="48" r="3.4" fill="#9ece6a"/>
+        <text x="370" y="53">Bash / Shell</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.18s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="616" y="30" width="260" height="36" rx="10" fill="url(#pill)" stroke="#1f2a44" stroke-width="1.2"/>
+        <circle cx="636" cy="48" r="3.4" fill="#009639"/>
+        <text x="650" y="53">Nginx</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.26s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="896" y="30" width="260" height="36" rx="10" fill="url(#pill)" stroke="#1f2a44" stroke-width="1.2"/>
+        <circle cx="916" cy="48" r="3.4" fill="#ef5350"/>
+        <text x="930" y="53">Ceph</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.34s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="56" y="86" width="260" height="36" rx="10" fill="url(#pill)" stroke="#1f2a44" stroke-width="1.2"/>
+        <circle cx="76" cy="104" r="3.4" fill="#3572a5"/>
+        <text x="90" y="109">Python</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.42s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="336" y="86" width="260" height="36" rx="10" fill="url(#pill)" stroke="#1f2a44" stroke-width="1.2"/>
+        <circle cx="356" cy="104" r="3.4" fill="#f7df1e"/>
+        <text x="370" y="109">JavaScript</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.50s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="616" y="86" width="260" height="36" rx="10" fill="url(#pill)" stroke="#1f2a44" stroke-width="1.2"/>
+        <circle cx="636" cy="104" r="3.4" fill="#3178c6"/>
+        <text x="650" y="109">TypeScript</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.58s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="896" y="86" width="260" height="36" rx="10" fill="url(#pill)" stroke="#1f2a44" stroke-width="1.2"/>
+        <circle cx="916" cy="104" r="3.4" fill="#7dcfff"/>
+        <text x="930" y="109">CSS</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.66s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="56" y="142" width="260" height="36" rx="10" fill="url(#pill)" stroke="#1f2a44" stroke-width="1.2"/>
+        <circle cx="76" cy="160" r="3.4" fill="#f1502f"/>
+        <text x="90" y="165">Git</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.74s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="336" y="142" width="260" height="36" rx="10" fill="url(#pill)" stroke="#1f2a44" stroke-width="1.2"/>
+        <circle cx="356" cy="160" r="3.4" fill="#bb9af7"/>
+        <text x="370" y="165">GitHub</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.82s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="616" y="142" width="260" height="36" rx="10" fill="url(#pill)" stroke="#1f2a44" stroke-width="1.2"/>
+        <circle cx="636" cy="160" r="3.4" fill="#007acc"/>
+        <text x="650" y="165">VS Code</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.90s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="896" y="142" width="260" height="36" rx="10" fill="url(#pill)" stroke="#1f2a44" stroke-width="1.2"/>
+        <circle cx="916" cy="160" r="3.4" fill="#2496ed"/>
+        <text x="930" y="165">Docker</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.98s" fill="freeze"/>
+      </g>
+
+    </g>
+  </g>
+</svg>
