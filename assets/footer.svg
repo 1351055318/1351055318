@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="110" viewBox="0 0 1260 110" fill="none" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fl" x1="0" y1="0" x2="1260" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#bb9af7" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7dcfff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <line x1="0" y1="24" x2="1260" y2="24" stroke="url(#fl)" stroke-width="1.5"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" text-anchor="middle">
+    <text x="630" y="62" font-size="15" fill="#6b7394">用代码解决问题，用脚本节省时间。</text>
+    <text x="630" y="88" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="3" fill="#3d4463">ZHANLU · 2026</text>
+  </g>
+
+  <rect x="672" y="50" width="7" height="14" fill="#7dcfff" opacity="0.75">
+    <animate attributeName="opacity" values="0.75;0.75;0;0" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
