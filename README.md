@@ -1,114 +1,60 @@
-<!-- 页面顶部动图 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CodeMaster&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header Banner" />
+
+# 1351055318
+
+**Linux 运维 · 全栈工具开发**
+
+把重复劳动写成脚本，把想法做成能跑的东西。
+
+[![Repositories](https://img.shields.io/badge/Repositories-17-2f81f7?style=flat-square&logo=github)](https://github.com/1351055318?tab=repositories)
+[![Starred](https://img.shields.io/badge/Starred-4-e3b341?style=flat-square&logo=github)](https://github.com/1351055318?tab=stars)
+[![Focus](https://img.shields.io/badge/Focus-Infra%20%26%20Web-3fb950?style=flat-square&logo=linux&logoColor=white)](#)
+
+</div>
+
+---
+
+## 关于我
+
+- 日常在 Linux 上折腾：PXE 批量装机、Ceph 分布式存储、服务器初始化与配置下发
+- 也写前端与工具链：数据大屏、云盘类 Web 应用、内部效率工具
+- 偏好少依赖、可维护、上线即用的实现方式
+- 持续学习中，喜欢把踩过的坑沉淀成可复用的脚本
+
+## 技术栈
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,javascript,typescript,css,git,github,vscode&theme=dark" alt="Tech Stack" />
+</p>
+
+## 精选项目
+
+| 项目 | 简介 | 技术 |
+| :--- | :--- | :--- |
+| [**Server-Configuration**](https://github.com/1351055318/Server-Configuration) | 服务器初始化与配置脚本集合 | `Shell` |
+| [**disk-pxe**](https://github.com/1351055318/disk-pxe) | PXE 网络批量装机方案 | `Shell` |
+| [**test-ceph**](https://github.com/1351055318/test-ceph) | Ceph 分布式存储实验环境 | `Shell` |
+| [**Creative-collaboration-platform**](https://github.com/1351055318/Creative-collaboration-platform) | 创意协作平台 | `JavaScript` |
+| [**shuzihuadaping-test1**](https://github.com/1351055318/shuzihuadaping-test1) | 数字化大屏可视化 | `TypeScript` |
+| [**joke-sender**](https://github.com/1351055318/joke-sender) | 冷笑话 / 土味情话自动推送系统 | `Python` |
+| [**weather-app**](https://github.com/1351055318/weather-app) | 天气查询小工具 | `JavaScript` |
+| [**HUILV**](https://github.com/1351055318/HUILV) | 汇率查询工具 · MIT | `Python` |
+
+<sub>更多项目见 [全部 17 个仓库](https://github.com/1351055318?tab=repositories)</sub>
+
+## GitHub 数据
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1351055318&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1351055318&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+World!;Welcome+to+my+CodeSpace;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%BB%A3%E7%A0%81%E7%A9%BA%E9%97%B4" alt="Typing SVG" />
+  <img src="https://streak-stats.demolab.com?user=1351055318&hide_border=true&theme=tokyonight" alt="Streak Stats" />
 </div>
 
+---
+
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  <sub>用代码解决问题，用脚本节省时间。</sub>
 </div>
-
-<br>
-
-<!-- 分割线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- 终端风格介绍 -->
-<div align="center">
-  <h2>👨‍💻 终端简介 | Terminal Intro</h2>
-</div>
-
-```bash
-$ whoami
-> 👨 full-stack-developer
-
-$ cat /etc/profile
-> 🚀 热爱编程，崇尚开源精神，追求简洁高效的代码
-
-$ uptime
-> ⏳ 编程5年，持续学习中...
-
-$ ls -la ~/skills
-> 📁 drwxr-xr-x  前端: React NextJS Vue TypeScript
-> 📁 drwxr-xr-x  后端: Node.js Python Django FastAPI Go
-> 📁 drwxr-xr-x  数据库: MongoDB MySQL PostgreSQL Redis
-> 📁 drwxr-xr-x  DevOps: Docker Kubernetes CI/CD AWS
-
-$ ps aux | grep current_focus
-> 🔍 AI/ML应用开发 云原生架构 分布式系统
-
-$ echo $PATH
-> 🛠️ /usr/local/问题解决/:/usr/bin/创新思维/:/home/用户/持续学习/
-
-$ exit
-> 👋 感谢访问！请继续向下浏览更多内容...
-```
-
-<!-- 分割线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GitHub奖杯 -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1351055318&theme=nord&column=7&no-frame=true" />
-</div>
-
-<br>
-
-<!-- 状态展示区和语言统计 - 三栏布局 -->
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1351055318&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1351055318&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<!-- 贡献展示 - 3D效果 -->
-<div align="center">
-  <img src="https://github.com/1351055318/1351055318/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="800px" alt="3D贡献图" />
-</div>
-
-<br>
-
-<!-- 分割线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- 技能图标展示 -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,typescript,react,nodejs,go,docker,git,vscode,linux&theme=dark" />
-</div>
-
-<br>
-
-<!-- 创意元素：开源项目展示 -->
-<div align="center">
-  <a href="https://github.com/1351055318/project-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1351055318&repo=project-name&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/1351055318/another-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1351055318&repo=another-project&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br>
-
-<!-- 访问计数器 -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/1351055318/count.svg" alt="Visitor Count" />
-</div>
-
-<!-- 页面底部 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div> 
