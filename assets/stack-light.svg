@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="200" viewBox="0 0 1260 200" fill="none" role="img" aria-label="Tech Stack">
+  <defs>
+    <clipPath id="tcard"><rect width="1260" height="200" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#tcard)">
+    <rect width="1260" height="200" fill="#ffffff"/>
+    <rect x="0.75" y="0.75" width="1258.5" height="198.5" rx="16" stroke="#d0d7de" stroke-width="1.5" fill="none"/>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#1f2328">
+
+      <g opacity="0">
+        <rect x="56" y="30" width="260" height="38" rx="10" fill="#f6f8fa" stroke="#e1e6eb" stroke-width="1.2"/>
+        <circle cx="76" cy="49" r="3.6" fill="#9a6700"/>
+        <text x="92" y="54">Linux</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.10s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="336" y="30" width="260" height="38" rx="10" fill="#f6f8fa" stroke="#e1e6eb" stroke-width="1.2"/>
+        <circle cx="356" cy="49" r="3.6" fill="#1a7f37"/>
+        <text x="372" y="54">Bash / Shell</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.18s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="616" y="30" width="260" height="38" rx="10" fill="#f6f8fa" stroke="#e1e6eb" stroke-width="1.2"/>
+        <circle cx="636" cy="49" r="3.6" fill="#1a7f37"/>
+        <text x="652" y="54">Nginx</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.26s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="896" y="30" width="260" height="38" rx="10" fill="#f6f8fa" stroke="#e1e6eb" stroke-width="1.2"/>
+        <circle cx="916" cy="49" r="3.6" fill="#cf222e"/>
+        <text x="932" y="54">Ceph</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.34s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="56" y="84" width="260" height="38" rx="10" fill="#f6f8fa" stroke="#e1e6eb" stroke-width="1.2"/>
+        <circle cx="76" cy="103" r="3.6" fill="#0969da"/>
+        <text x="92" y="108">Python</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.42s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="336" y="84" width="260" height="38" rx="10" fill="#f6f8fa" stroke="#e1e6eb" stroke-width="1.2"/>
+        <circle cx="356" cy="103" r="3.6" fill="#9a6700"/>
+        <text x="372" y="108">JavaScript</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.50s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="616" y="84" width="260" height="38" rx="10" fill="#f6f8fa" stroke="#e1e6eb" stroke-width="1.2"/>
+        <circle cx="636" cy="103" r="3.6" fill="#0969da"/>
+        <text x="652" y="108">TypeScript</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.58s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="896" y="84" width="260" height="38" rx="10" fill="#f6f8fa" stroke="#e1e6eb" stroke-width="1.2"/>
+        <circle cx="916" cy="103" r="3.6" fill="#1b7c83"/>
+        <text x="932" y="108">CSS</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.66s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="56" y="138" width="260" height="38" rx="10" fill="#f6f8fa" stroke="#e1e6eb" stroke-width="1.2"/>
+        <circle cx="76" cy="157" r="3.6" fill="#cf222e"/>
+        <text x="92" y="162">Git</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.74s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="336" y="138" width="260" height="38" rx="10" fill="#f6f8fa" stroke="#e1e6eb" stroke-width="1.2"/>
+        <circle cx="356" cy="157" r="3.6" fill="#8250df"/>
+        <text x="372" y="162">GitHub</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.82s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="616" y="138" width="260" height="38" rx="10" fill="#f6f8fa" stroke="#e1e6eb" stroke-width="1.2"/>
+        <circle cx="636" cy="157" r="3.6" fill="#0969da"/>
+        <text x="652" y="162">VS Code</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.90s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="896" y="138" width="260" height="38" rx="10" fill="#f6f8fa" stroke="#e1e6eb" stroke-width="1.2"/>
+        <circle cx="916" cy="157" r="3.6" fill="#0969da"/>
+        <text x="932" y="162">Docker</text>
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.98s" fill="freeze"/>
+      </g>
+
+    </g>
+  </g>
+</svg>
