@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="250" viewBox="0 0 1260 250" fill="none" role="img" aria-label="What I do">
+  <defs>
+    <linearGradient id="abg" x1="0" y1="0" x2="1260" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a0f1d"/>
+      <stop offset="1" stop-color="#0c1018"/>
+    </linearGradient>
+    <clipPath id="acard"><rect width="1260" height="250" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#acard)">
+    <rect width="1260" height="250" fill="url(#abg)"/>
+    <rect x="0.75" y="0.75" width="1258.5" height="248.5" rx="16" stroke="#1d2740" stroke-width="1.5" fill="none"/>
+
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+
+      <g opacity="0">
+        <rect x="56" y="34" width="568" height="92" rx="12" fill="#0f1523" stroke="#1a2338" stroke-width="1.2"/>
+        <rect x="80" y="60" width="40" height="40" rx="10" fill="#7aa2f7" opacity="0.16"/>
+        <circle cx="100" cy="80" r="7" fill="#7aa2f7"/>
+        <text x="144" y="78" font-size="17" font-weight="600" fill="#e6edff">基础设施自动化</text>
+        <text x="144" y="103" font-size="13" fill="#6b7394">PXE 网络批量装机 · 服务器初始化 · 配置下发</text>
+        <animate attributeName="opacity" values="0;1" dur="0.55s" begin="0.10s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="636" y="34" width="568" height="92" rx="12" fill="#0f1523" stroke="#1a2338" stroke-width="1.2"/>
+        <rect x="660" y="60" width="40" height="40" rx="10" fill="#bb9af7" opacity="0.16"/>
+        <rect x="676" y="72" width="8" height="16" rx="2" fill="#bb9af7"/>
+        <rect x="690" y="66" width="8" height="22" rx="2" fill="#bb9af7"/>
+        <text x="724" y="78" font-size="17" font-weight="600" fill="#e6edff">存储与虚拟化</text>
+        <text x="724" y="103" font-size="13" fill="#6b7394">Ceph 分布式存储实验 · 节点扩容 · 故障演练</text>
+        <animate attributeName="opacity" values="0;1" dur="0.55s" begin="0.22s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="56" y="146" width="568" height="92" rx="12" fill="#0f1523" stroke="#1a2338" stroke-width="1.2"/>
+        <rect x="80" y="172" width="40" height="40" rx="10" fill="#7dcfff" opacity="0.16"/>
+        <rect x="92" y="182" width="6" height="20" rx="2" fill="#7dcfff"/>
+        <rect x="102" y="188" width="6" height="14" rx="2" fill="#7dcfff"/>
+        <rect x="112" y="178" width="6" height="24" rx="2" fill="#7dcfff"/>
+        <text x="144" y="190" font-size="17" font-weight="600" fill="#e6edff">Web 与可视化</text>
+        <text x="144" y="215" font-size="13" fill="#6b7394">数字化大屏 · 云盘类应用 · 协作平台前端</text>
+        <animate attributeName="opacity" values="0;1" dur="0.55s" begin="0.34s" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <rect x="636" y="146" width="568" height="92" rx="12" fill="#0f1523" stroke="#1a2338" stroke-width="1.2"/>
+        <rect x="660" y="172" width="40" height="40" rx="10" fill="#9ece6a" opacity="0.16"/>
+        <path d="M670 196 L678 182 L686 196 Z" fill="#9ece6a" opacity="0.9"/>
+        <circle cx="678" cy="198" r="3" fill="#9ece6a"/>
+        <text x="724" y="190" font-size="17" font-weight="600" fill="#e6edff">工具与脚本</text>
+        <text x="724" y="215" font-size="13" fill="#6b7394">天气、汇率、推送机器人等日常效率工具</text>
+        <animate attributeName="opacity" values="0;1" dur="0.55s" begin="0.46s" fill="freeze"/>
+      </g>
+
+    </g>
+  </g>
+</svg>
