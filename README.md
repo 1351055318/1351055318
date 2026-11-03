@@ -1,18 +1,10 @@
 <div align="center">
-
-# 1351055318
-
-**Linux 运维 · 全栈工具开发**
-
-把重复劳动写成脚本，把想法做成能跑的东西。
-
-[![Repositories](https://img.shields.io/badge/Repositories-17-2f81f7?style=flat-square&logo=github)](https://github.com/1351055318?tab=repositories)
-[![Starred](https://img.shields.io/badge/Starred-4-e3b341?style=flat-square&logo=github)](https://github.com/1351055318?tab=stars)
-[![Focus](https://img.shields.io/badge/Focus-Infra%20%26%20Web-3fb950?style=flat-square&logo=linux&logoColor=white)](#)
-
+  <img src="./assets/hero.svg" alt="1351055318 — Linux 运维 · 全栈工具开发" width="100%" />
 </div>
 
----
+<br />
+
+> **把重复劳动写成脚本，把想法做成能跑的东西。**
 
 ## 关于我
 
@@ -21,11 +13,13 @@
 - 偏好少依赖、可维护、上线即用的实现方式
 - 持续学习中，喜欢把踩过的坑沉淀成可复用的脚本
 
-## 技术栈
-
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,python,javascript,typescript,css,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 精选项目
 
@@ -42,18 +36,19 @@
 
 <sub>更多项目见 [全部 17 个仓库](https://github.com/1351055318?tab=repositories)</sub>
 
-## GitHub 数据
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</div>
+
+## GitHub 概览
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1351055318&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1351055318&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img src="./assets/stats.svg" width="100%" alt="GitHub Overview" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=1351055318&hide_border=true&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=1351055318&hide_border=true&theme=tokyonight&card_width=1200" alt="Streak Stats" width="100%" />
 </div>
-
----
 
 <div align="center">
   <sub>用代码解决问题，用脚本节省时间。</sub>
