@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/hero.svg" width="100%" alt="KeepAlive" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/hero.svg?v=2" width="100%" alt="KeepAlive" />
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/dashboard.svg" width="100%" alt="GitHub Dashboard" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/dashboard.svg?v=2" width="100%" alt="GitHub Dashboard" />
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/sec-01.svg" width="100%" alt="01" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/sec-01.svg?v=2" width="100%" alt="01" />
 </div>
 
 <table width="100%">
@@ -34,7 +34,7 @@
 </table>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/sec-02.svg" width="100%" alt="02" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/sec-02.svg?v=2" width="100%" alt="02" />
 </div>
 
 <table width="100%">
@@ -79,15 +79,15 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/sec-03.svg" width="100%" alt="03" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/sec-03.svg?v=2" width="100%" alt="03" />
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/stack.svg" width="100%" alt="Tech Stack" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/stack.svg?v=2" width="100%" alt="Tech Stack" />
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/sec-04.svg" width="100%" alt="04" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/sec-04.svg?v=2" width="100%" alt="04" />
 </div>
 
 <div align="center">
@@ -95,5 +95,5 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/footer.svg" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/1351055318/1351055318@main/assets/footer.svg?v=2" width="100%" alt="" />
 </div>
